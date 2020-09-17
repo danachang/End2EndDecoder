@@ -8,7 +8,7 @@ Most of my research projects are stored in GitHub Enterprise (@github.mit.edu), 
 ## Prerequisites
 
 - Python 3.6
-- [Tensorflow 1.14.0](https://github.com/tensorflow/tensorflow/)
+- [Tensorflow 1.15.0](https://github.com/tensorflow/tensorflow/)
 - [NumPy](http://www.numpy.org/)
 - [colorlog](https://pypi.org/project/colorlog/)
 - [imageio](https://imageio.github.io/)
